@@ -1,0 +1,11 @@
+{
+	"name": "isitdst",
+	"version": "1.0.0",
+	"description": "",
+	"main": "isitdst.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
